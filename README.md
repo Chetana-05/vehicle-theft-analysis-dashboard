@@ -4,10 +4,10 @@ Interactive Excel Dashboard for Vehicle Theft Analysis using Pivot Tables, Chart
 <img width="495" height="225" alt="DASHBOARD-REP" src="https://github.com/user-attachments/assets/15edf025-2723-43bc-8419-cc3bb22794a3" />
 
 
-# 🚗 Vehicle Theft Analysis Dashboard
+#  Vehicle Theft Analysis Dashboard
 
 ## 📊 Overview
-
+c
 An interactive Excel dashboard designed to analyze vehicle theft incidents across New Zealand. This project transforms raw data into actionable insights to support law enforcement planning and insurance risk assessment.
 
 
@@ -44,21 +44,21 @@ An interactive Excel dashboard designed to analyze vehicle theft incidents acros
 
 ## 📌 Dashboard Features
 
-🚗 Total Vehicle Thefts KPI
+- Total Vehicle Thefts KPI
 
-🌍 Regional Theft Analysis
+- Regional Theft Analysis
 
-🚙 Vehicle Type Analysis
+- Vehicle Type Analysis
 
-📅 Monthly Theft Trends
+- Monthly Theft Trends
 
-💎 Luxury vs Standard Comparison
+- Luxury vs Standard Comparison
 
-🏙️ Population Density vs Theft Rate
+- Population Density vs Theft Rate
 
-🏭 Manufacturer-wise Theft Analysis
+- Manufacturer-wise Theft Analysis
 
-🎛️ Interactive Filters & Slicers
+- Interactive Filters & Slicers
 
 
 
