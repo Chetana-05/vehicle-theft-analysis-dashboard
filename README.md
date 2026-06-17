@@ -1,6 +1,7 @@
 # vehicle-theft-analysis-dashboard
 Interactive Excel Dashboard for Vehicle Theft Analysis using Pivot Tables, Charts, Slicers, and Data Modeling.
 
+<img width="495" height="225" alt="DASHBOARD-REP" src="https://github.com/user-attachments/assets/15edf025-2723-43bc-8419-cc3bb22794a3" />
 
 
 # 🚗 Vehicle Theft Analysis Dashboard
